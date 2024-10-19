@@ -14,3 +14,8 @@ sub {
     font-size:0.65em;
 }
 
+i { 
+    font-weight: 700;
+    display: none;
+}
+
