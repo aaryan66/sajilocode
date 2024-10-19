@@ -7,9 +7,10 @@
 .nav {
     height: 10vh;
     padding: 0 1vw;
+    border-bottom: 2px solid #dadada;
 }
 
 sub {
-    
+    font-size:0.65em;
 }
 
