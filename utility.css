@@ -9,3 +9,24 @@
 .bd-red { 
     border: 2px solid red; 
 }
+
+.flex { 
+    display: flex; 
+    flex: wrap
+}
+
+.center-v {
+    align-items: center;
+}
+
+.j-evenly {
+    justify-content: space-evenly;
+}
+
+.j-bw { 
+    justify-content: space-between;
+}
+
+.j-ar { 
+    justify-content: space-around;
+}
