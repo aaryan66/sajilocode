@@ -30,3 +30,11 @@
 .j-ar { 
     justify-content: space-around;
 }
+
+.g-nav {
+    gap: 3vw;
+}
+
+.headColor {
+    color: #FF5000
+}
