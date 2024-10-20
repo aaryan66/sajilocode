@@ -27,3 +27,7 @@ i {
     width: 100%;
     position: relative; 
 }
+
+.hero {
+    padding: 0 1vw
+}

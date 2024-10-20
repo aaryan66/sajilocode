@@ -38,3 +38,7 @@
 .headColor {
     color: #FF5000
 }
+
+.container {
+    height: 50vh;
+}
