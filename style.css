@@ -29,5 +29,20 @@ i {
 }
 
 .hero {
-    padding: 0 1vw
+    padding: 0 2vw; 
+    margin: 1vw; 
+}
+
+.hero-img { 
+    width: 30vw;
+}
+
+.hero-img > img { 
+    height: 20vmax;
+}
+
+
+.text > h3 {
+    margin-left : 25px; 
+    margin-top: 12px; 
 }
