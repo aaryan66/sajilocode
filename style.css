@@ -29,20 +29,21 @@ i {
 }
 
 .hero {
-    padding: 0 2vw; 
+    padding: 4vh 3vw; 
     margin: 1vw; 
 }
 
 .hero-img { 
-    width: 30vw;
+    width: 150vw; 
 }
 
 .hero-img > img { 
     height: 20vmax;
+    margin-left: 14vw; 
 }
 
-
-.text > h3 {
-    margin-left : 25px; 
-    margin-top: 12px; 
+.text { 
+    padding: 3vw 2vw;
+    text-align: justify;
+    margin-top: 1vw; 
 }
