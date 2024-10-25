@@ -12,7 +12,7 @@
 
 .flex { 
     display: flex; 
-    flex: wrap
+    /* flex: wrap */
 }
 
 .center-v {
@@ -32,7 +32,7 @@
 }
 
 .g-nav {
-    gap: 3vw;
+    gap: 1vw;
 }
 
 .headColor {
