@@ -28,11 +28,12 @@ i {
     position: relative; 
 }
 
-.hero {
-    padding: 4vh 3vw; 
+.hero,.blog-gallery {
     margin: 1vw; 
 }
-
+.hero {
+    padding: 4vh 4vw; 
+}
 .hero-img { 
     width: 150vw; 
 }
@@ -46,4 +47,20 @@ i {
     padding: 3vw 2vw;
     text-align: justify;
     margin-top: 1vw; 
+}
+
+
+
+.blog-gallery { 
+    text-align: center;
+    height: 90vh;
+}
+
+.home-gallery { 
+    height: 45vh;
+}
+
+.card { 
+    border: 2px solid blue;
+    width: 25%;
 }
